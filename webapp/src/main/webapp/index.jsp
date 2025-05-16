@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Technical Zero2Hero !!! </h1>
-<h2> Hi Students this is my final code for this project !!! </h2>
+<h1> Hello, this is my devops project</h1>
+<h2> Lets learn devops </h2>
 
